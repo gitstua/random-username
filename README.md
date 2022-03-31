@@ -7,7 +7,8 @@ You can use the tool from my website: [stuarteggerton.com/random-username/](http
 
 
 ## Privacy
-The wordlist is loaded from the website and the username is generated in your browser. I do not record the username you generate. You can review the source code or contribute at github.com/gitstua/random-username/
+The wordlist is loaded from the website and the username is generated in your browser. I do not record the username you generate. 
+
 
 ## Thanks
 https://developer.mozilla.org/en-US/docs/Web/API/Crypto/getRandomValues
